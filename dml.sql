@@ -5,9 +5,6 @@
 -------------------------DML----------------------------------
 Fecha: 20/05/2022
 Autor: Equipo 04: 
-- Marcos Diaz
-- Rogelio Hernandez
-- Christian Leyva
 */
 -- use PRUEBAS_PROYECTO_FINAL;
 use PROYECTO_FINAL_EQUIPO4_2022_2;
