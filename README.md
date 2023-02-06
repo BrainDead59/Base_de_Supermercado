@@ -1,5 +1,5 @@
 <h1>Base de Supermercado</h1>
-Este proyecto consiste en el desarrollo desde cero de una base de datos para un supermercado, en base a una serie de requirimientos.
+Este proyecto consiste en el desarrollo desde cero de una base de datos para un supermercado, en base a una serie de requirimientos. Utilizando el lenguaje SQL, en Microsoft SQL Server.
 <h2>Etapas de diseño</h2>
 <ul>
     <li> Diseño conceptual
