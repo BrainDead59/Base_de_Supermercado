@@ -1,4 +1,3 @@
-
 -- DESCRIPCIÓN: Proyecto FINAL Equipo 4
 -- Script 'creaBase.sql' (DDL)
 -- Semestre 2022-2

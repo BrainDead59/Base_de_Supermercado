@@ -2,8 +2,6 @@
 -- Script 'creaBase.sql' (DDL)
 -- Semestre 2022-2
 
--- Creacion de base de datos:
-
 -- CREATE DATABASE PRUEBAS_PROYECTO_FINAL;
 CREATE DATABASE PROYECTO_FINAL_EQUIPO4_2022_2;
 go
